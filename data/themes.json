@@ -1,0 +1,8 @@
+{
+  "themes": [
+    { "slug": "budget", "label": "Budget", "keywords": ["loi de finances", "plf", "crédits", "finances"] },
+    { "slug": "sante", "label": "Santé", "keywords": ["hôpital", "assurance maladie", "médicament", "vaccin"] },
+    { "slug": "environnement", "label": "Environnement", "keywords": ["climat", "biodiversité", "carbone", "énergie"] }
+  ],
+  "overrides": {}
+}

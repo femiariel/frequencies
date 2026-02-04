@@ -1,0 +1,3476 @@
+{
+  "scrutins": [
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 73,
+        "for": 18
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5294",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 9 de Mme Chatelain à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 75,
+        "for": 21
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5293",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 15 de M. Rancoule à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA794354",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 35,
+        "for": 48
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5292",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 31 de M. Midy et l'amendement identique suivant à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA794354",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 35,
+        "for": 51
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5291",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 32 de M. Midy et l'amendement identique suivant à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA794354",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 66,
+        "for": 15
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5290",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 8 de Mme Chatelain à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA794354",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 17,
+        "for": 65
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5289",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 27 de M. Boudié à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA794354",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 83,
+        "for": 31
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5288",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 2 de Mme Élisa Martin à l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 83,
+        "for": 30
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5287",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 1 de M. Coulomme et les amendements identiques suivants de suppression de l'article premier de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 62,
+        "for": 24
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5286",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "la motion de rejet préalable, déposée par Mme Mathilde Panot, de la proposition de loi visant à améliorer la protection des commerçants grâce à l'usage d'outils numériques (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 135
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5285",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "la motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par Mme Marine Le Pen, M. Éric Ciotti et 104 députés.",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 260
+      },
+      "date": "2026-02-02",
+      "id": "AN-17-5284",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "la motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Stéphane Peu, Mme Mathilde Panot, Mme Cyrielle Chatelain et 110 députés.",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 35
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5283",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 17,
+        "for": 13
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5282",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 91 de Mme Maximi après l'article 7 bis de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 25,
+        "for": 5
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5281",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 109 de Mme Hamelet après l'article 5 de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 18,
+        "for": 8
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5280",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 107 de Mme Hamelet à l'article 4 de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 18,
+        "for": 9
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5279",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 41 de Mme Santiago à l'article 2 de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 27,
+        "for": 11
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5278",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 100 de Mme Hamelet après l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 25,
+        "for": 14
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5277",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 79 de Mme Maximi après l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 17,
+        "for": 9
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5276",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 87 (rect.) de Mme Loir après l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 16,
+        "for": 9
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5275",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 102 de Mme Hamelet à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 27,
+        "for": 10
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5274",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 81 de Mme Loir à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 17,
+        "for": 22
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5273",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 75 de Mme Maximi à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 29,
+        "for": 9
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5272",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 101 de Mme Hamelet à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 30,
+        "for": 10
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5271",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 80 de Mme Loir à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 29,
+        "for": 10
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5270",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 99 de Mme Hamelet à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 12,
+        "for": 18
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5269",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 71 de Mme Hadizadeh à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 24,
+        "for": 11
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5268",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 98 de Mme Hamelet à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845413",
+          "name": null,
+          "person_id": "PA795310",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 1,
+        "for": 34
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5267",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 89 de Mme Maximi à l'article premier de la proposition de loi relative à l'intérêt des enfants (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 69
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5266",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 40,
+        "for": 30
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5265",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 3 de M. Laisney après l'article 6 bis de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 30,
+        "for": 35
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5264",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 2 de M. Laisney après l'article 6 bis de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 60
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5263",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article 6 bis de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 60
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5262",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 5 de Mme Reid Arbelot à l'article 6 bis de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 53
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5261",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article 6 de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 55
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5260",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article 4 de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 3,
+        "for": 40
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5259",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 1 de M. Laisney à l'article 4 de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 49
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5258",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article 3 de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 45
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5257",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 6 de Mme Reid Arbelot à l'article 3 de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 45
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5256",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article premier de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 48
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5255",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 4 (rect.) de Mme Reid Arbelot à l'article premier de la proposition de loi visant à reconnaître les victimes de l'exposition aux essais nucléaires français et à améliorer leur indemnisation (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 13,
+        "for": 43
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5254",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 19,
+        "for": 55
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5253",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 20 (rect.) de M. Hablot à l'article 3 de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 46,
+        "for": 21
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5252",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 7 (rect.) de M. Cadalen à l'article 2 de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 23,
+        "for": 41
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5251",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 19 de M. Hablot après l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 30,
+        "for": 29
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5250",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 25 de M. Frappé à l'amendement n° 19 de M. Hablot après l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 13,
+        "for": 37
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5249",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 62,
+        "for": 11
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5248",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 13 de M. Frappé à l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 47,
+        "for": 18
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5247",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 5 de M. Cadalen à l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 44,
+        "for": 18
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5246",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 6 de Mme Nosbé à l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 42,
+        "for": 16
+      },
+      "date": "2026-01-29",
+      "id": "AN-17-5245",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 17 du Gouvernement à l'article premier de la proposition de loi visant à garantir la gratuité des parkings des hôpitaux publics pour les patients, les visiteurs et les personnels sur leur temps de travail (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845401",
+          "name": null,
+          "person_id": "PA720468",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 72
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5244",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi visant à réparer les préjudices causés par la transplantation de mineurs de La Réunion en France hexagonale de 1962 à 1984 (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 106
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5243",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi visant à mettre fin au devoir conjugal (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 73,
+        "for": 32
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5242",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 2 de Mme Capdevielle et l'amendement identique suivant après l'article premier de la proposition de loi visant à mettre fin au devoir conjugal (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 62,
+        "for": 33
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5241",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 3 de Mme Leboucher à l'article premier de la proposition de loi visant à mettre fin au devoir conjugal (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 22,
+        "for": 77
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5240",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 16,
+        "for": 67
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5239",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article 2 de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 78
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5238",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 68 du Gouvernement après l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 17,
+        "for": 66
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5237",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 7,
+        "for": 69
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5236",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 37 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 56
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5235",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 65 du Gouvernement à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 29,
+        "for": 43
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5234",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 23 de M. Legavre à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 26,
+        "for": 34
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5233",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 21 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 26,
+        "for": 18
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5232",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 14 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 45
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5231",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 12 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 13,
+        "for": 60
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5230",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 66 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 2,
+        "for": 55
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5229",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 60 de M. Cazenave à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 51,
+        "for": 17
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5228",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 17 de Mme Pantel à l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 51,
+        "for": 10
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5227",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 7 de M. Maurel et les amendements identiques suivants de suppression de l'article premier de la proposition de loi visant à moderniser la gestion du patrimoine immobilier de l'État (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 195
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5226",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de résolution tendant à la création d'une commission d'enquête sur le traitement judiciaire des violences sexuelles incestueuses parentales commises contre les enfants et la situation des parents protecteurs, notamment des mères protectrices.",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 3,
+        "for": 191
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5225",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'article unique de la proposition de résolution tendant à la création d'une commission d'enquête sur le traitement judiciaire des violences sexuelles incestueuses parentales commises contre les enfants et la situation des parents protecteurs, notamment des mères protectrices.",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 117,
+        "for": 67
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5224",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 2 de Mme Taurinya à l'article unique de la proposition de résolution tendant à la création d'une commission d'enquête sur le traitement judiciaire des violences sexuelles incestueuses parentales commises contre les enfants et la situation des parents protecteurs, notamment des mères protectrices.",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 122,
+        "for": 35
+      },
+      "date": "2026-01-28",
+      "id": "AN-17-5223",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 1 de Mme Cathala à l'article unique de la proposition de résolution tendant à la création d'une commission d'enquête sur le traitement judiciaire des violences sexuelles incestueuses parentales commises contre les enfants et la situation des parents protecteurs, notamment des mères protectrices.",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 0,
+        "for": 96
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5222",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'ensemble de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 26,
+        "for": 65
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5221",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 169 (rect.) du Gouvernement après l'article 3 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 99,
+        "for": 20
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5220",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 175 de Mme Godard à l'amendement n° 169 (rect.) du Gouvernement après l'article 3 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 18,
+        "for": 68
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5219",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 170 (rect.) du Gouvernement à l'article 3 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 53,
+        "for": 54
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5218",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 215 de Mme Belouassa-Cherifi à l'amendement n° 170 (rect.) du Gouvernement à l'article 3 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 37,
+        "for": 64
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5217",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 113,
+        "for": 13
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5216",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 214 de M. Gernigon à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 1,
+        "for": 123
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5215",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 183 de M. Viry à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 91,
+        "for": 35
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5214",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 177 de Mme Godard à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 8,
+        "for": 50
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5213",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 181 de M. Viry à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 9,
+        "for": 72
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5212",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 182 de M. Viry à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 65,
+        "for": 58
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5211",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 213 de Mme Belouassa-Cherifi à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO845454",
+          "name": null,
+          "person_id": "PA719024",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 100,
+        "for": 22
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5210",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 218 de Mme Perrine Goulet à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 95,
+        "for": 22
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5209",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 178 de Mme Godard à l'amendement n° 172 (rect.) du Gouvernement à l'article 2 de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 30,
+        "for": 84
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5208",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 134,
+        "for": 6
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5207",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 203 de Mme Perrine Goulet à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 16,
+        "for": 95
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5206",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 180 de M. Viry à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 75,
+        "for": 72
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5205",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 187 de Mme Pochon à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 84,
+        "for": 62
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5204",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 194 de Mme Pochon à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 8,
+        "for": 94
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5203",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 193 de Mme Pochon à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 83,
+        "for": 61
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5202",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 174 (rect.) de Mme Godard à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 83,
+        "for": 62
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5201",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 188 de Mme Pochon à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 83,
+        "for": 63
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5200",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 186 de Mme Pochon à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 141,
+        "for": 4
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5199",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 204 de Mme Perrine Goulet à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 136,
+        "for": 6
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5198",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 202 de Mme Perrine Goulet à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 76,
+        "for": 66
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5197",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 195 de Mme Pochon et le sous-amendement identique suivant à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 130,
+        "for": 14
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5196",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 205 de Mme Perrine Goulet à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    },
+    {
+      "chamber": "AN",
+      "counts": {
+        "against": 88,
+        "for": 52
+      },
+      "date": "2026-01-27",
+      "id": "AN-17-5195",
+      "object": null,
+      "result_status": null,
+      "scrutin_type": null,
+      "source_url": null,
+      "themes": [],
+      "title": "le sous-amendement n° 190 de Mme Pochon à l'amendement n° 171 (rect.) du Gouvernement à l'article premier de la proposition de loi visant à exercer l’accès à l’emploi, à pérenniser et à étendre progressivement l’expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l’emploi pour les personnes privées durablement d’emploi (première lecture).",
+      "votes": [
+        {
+          "constituency": null,
+          "group": "PO845407",
+          "name": null,
+          "person_id": "PA721908",
+          "position": "NONVOTING"
+        },
+        {
+          "constituency": null,
+          "group": "PO840056",
+          "name": null,
+          "person_id": "PA720066",
+          "position": "NONVOTING"
+        }
+      ]
+    }
+  ],
+  "year": 2026
+}

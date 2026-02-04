@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-02-04T14:57:07.349080+00:00",
+  "people": [
+    {
+      "chamber": "AN",
+      "group": "PO845454",
+      "name": null,
+      "person_id": "PA719024"
+    },
+    {
+      "chamber": "AN",
+      "group": "PO840056",
+      "name": null,
+      "person_id": "PA720066"
+    },
+    {
+      "chamber": "AN",
+      "group": "PO845401",
+      "name": null,
+      "person_id": "PA720468"
+    },
+    {
+      "chamber": "AN",
+      "group": "PO845407",
+      "name": null,
+      "person_id": "PA721908"
+    },
+    {
+      "chamber": "AN",
+      "group": "PO845401",
+      "name": null,
+      "person_id": "PA794354"
+    },
+    {
+      "chamber": "AN",
+      "group": "PO845413",
+      "name": null,
+      "person_id": "PA795310"
+    }
+  ]
+}
