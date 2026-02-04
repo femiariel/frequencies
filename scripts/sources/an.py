@@ -1,11 +1,14 @@
 import zipfile
 from pathlib import Path
+import json
 
 import httpx
 from lxml import etree
 
 AN_LEGISLATURE = "17"
 AN_ZIP_URL = "http://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.xml.zip"
+# URL CORRIGÉE : fichier JSON composite avec acteurs + mandats + organes
+AN_ACTEURS_URL = "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_actifs_mandats_actifs_organes/AMO10_deputes_actifs_mandats_actifs_organes.json.zip"
 
 
 def _cache_dir() -> Path:
@@ -14,11 +17,13 @@ def _cache_dir() -> Path:
 
 def _download(url: str, dest: Path):
     dest.parent.mkdir(parents=True, exist_ok=True)
+    print(f"📥 Téléchargement de {dest.name}...")
     with httpx.stream("GET", url, timeout=120.0, follow_redirects=True) as r:
         r.raise_for_status()
         with open(dest, "wb") as f:
             for chunk in r.iter_bytes():
                 f.write(chunk)
+    print(f"✅ {dest.name} téléchargé")
 
 
 def _date_only(s: str | None) -> str | None:
@@ -59,8 +64,11 @@ def _extract_votes(scrutin_node) -> list[dict]:
 
     bucket_to_pos = {
         "pour": "FOR",
+        "pours": "FOR",
         "contre": "AGAINST",
+        "contres": "AGAINST",
         "abstention": "ABSTAIN",
+        "abstentions": "ABSTAIN",
         "nonVotant": "NONVOTING",
         "nonvotant": "NONVOTING",
         "nonVotants": "NONVOTING",
@@ -95,21 +103,20 @@ def _extract_votes(scrutin_node) -> list[dict]:
             if pos is not None and group is not None:
                 break
 
-        # Si on n'arrive pas à déterminer la position, on ignore (sinon bruit)
         if pos is None:
             continue
 
         votes.append(
             {
-                "person_id": pid,     # ex: PAxxxx
-                "position": pos,      # FOR/AGAINST/ABSTAIN/NONVOTING
-                "group": group,       # peut être None
+                "person_id": pid,
+                "position": pos,
+                "group": group,
                 "constituency": None,
                 "name": None,
             }
         )
 
-    # dédoublonnage (au cas où)
+    # dédoublonnage
     seen = set()
     uniq = []
     for v in votes:
@@ -124,19 +131,14 @@ def _extract_votes(scrutin_node) -> list[dict]:
 
 def _parse_one_xml(fileobj) -> list[dict]:
     """
-    Parse un flux XML et retourne les scrutins trouvés.
-    Namespace-agnostic : on garde local-name()='scrutin'.
+    Parse un flux XML qui contient UN SEUL scrutin (la racine est le scrutin).
+    Chaque fichier XML du ZIP = 1 scrutin complet.
     """
-    out = []
-
-    context = etree.iterparse(fileobj, events=("end",), recover=True, huge_tree=True)
-    for _, el in context:
-        if not isinstance(el.tag, str):
-            continue
-
-        # local-name strict (évite de matcher <scrutins>)
-        if el.tag.split("}")[-1] != "scrutin":
-            continue
+    try:
+        tree = etree.parse(fileobj)
+        root = tree.getroot()
+        
+        el = root
 
         numero = _first_text(el, "numero") or "UNKNOWN"
         date = _date_only(_first_text(el, "dateScrutin")) or "1970-01-01"
@@ -154,7 +156,6 @@ def _parse_one_xml(fileobj) -> list[dict]:
             or None
         )
 
-        # totaux (si dispo)
         counts = {}
 
         def count_of(name: str):
@@ -177,34 +178,108 @@ def _parse_one_xml(fileobj) -> list[dict]:
 
         votes = _extract_votes(el)
 
-        out.append(
-            {
-                "id": f"AN-{AN_LEGISLATURE}-{numero}",
-                "date": date,
-                "title": title,
-                "object": None,
-                "scrutin_type": scrutin_type,
-                "result_status": result_status,
-                "counts": counts,
-                "source_url": None,
-                "votes": votes,
-            }
-        )
+        return [{
+            "id": f"AN-{AN_LEGISLATURE}-{numero}",
+            "date": date,
+            "title": title,
+            "object": None,
+            "scrutin_type": scrutin_type,
+            "result_status": result_status,
+            "counts": counts,
+            "source_url": None,
+            "votes": votes,
+        }]
+        
+    except Exception as e:
+        return []
 
-        # nettoyage mémoire
-        el.clear()
-        while el.getprevious() is not None:
-            del el.getparent()[0]
 
-    return out
+def fetch_an_acteurs() -> tuple[dict, dict]:
+    """
+    Télécharge et parse le fichier JSON des acteurs (députés) et organes (groupes).
+    Retourne deux dicts:
+    - acteurs: {person_id: {name, ...}}
+    - organes: {organe_id: {name, acronym}}
+    """
+    cache = _cache_dir()
+    zip_path = cache / "Acteurs.json.zip"
+    
+    if not zip_path.exists():
+        _download(AN_ACTEURS_URL, zip_path)
+    
+    acteurs = {}
+    organes = {}
+    
+    with zipfile.ZipFile(zip_path, "r") as zf:
+        json_files = [n for n in zf.namelist() if n.lower().endswith(".json")]
+        if not json_files:
+            print("⚠️  Aucun fichier JSON trouvé dans le ZIP acteurs")
+            return acteurs, organes
+        
+        with zf.open(json_files[0]) as f:
+            data = json.load(f)
+            
+            # Parser les acteurs (députés)
+            acteurs_list = data.get("acteurs", {}).get("acteur", [])
+            if not isinstance(acteurs_list, list):
+                acteurs_list = [acteurs_list] if acteurs_list else []
+            
+            for acteur in acteurs_list:
+                # L'UID peut être directement une string ou dans un dict avec #text
+                uid = acteur.get("uid")
+                if isinstance(uid, dict):
+                    uid = uid.get("#text", "")
+                uid = uid.strip() if uid else ""
+                
+                if not uid:
+                    continue
+                
+                etat_civil = acteur.get("etatCivil", {})
+                ident = etat_civil.get("ident", {})
+                prenom = ident.get("prenom", "")
+                nom = ident.get("nom", "")
+                full_name = f"{prenom} {nom}".strip()
+                
+                acteurs[uid] = {
+                    "name": full_name or "Inconnu",
+                }
+            
+            # Parser les organes (groupes parlementaires)
+            organes_list = data.get("organes", {}).get("organe", [])
+            if not isinstance(organes_list, list):
+                organes_list = [organes_list] if organes_list else []
+                
+            for organe in organes_list:
+                uid = organe.get("uid", "")
+                if isinstance(uid, dict):
+                    uid = uid.get("#text", "")
+                uid = uid.strip() if uid else ""
+                
+                if not uid:
+                    continue
+                
+                libelle = organe.get("libelle", "")
+                libelle_abrege = organe.get("libelleAbrege", "") or organe.get("libelleAbrev", "")
+                
+                organes[uid] = {
+                    "name": libelle or "Groupe inconnu",
+                    "acronym": libelle_abrege or "",
+                }
+    
+    print(f"✅ {len(acteurs)} acteurs chargés")
+    print(f"✅ {len(organes)} organes chargés")
+    return acteurs, organes
 
 
 def fetch_an_scrutins(limit: int = 200) -> list[dict]:
     """
-    Lit le ZIP.
-    - Si le zip contient plusieurs XML : on les parcourt tous.
-    - Si un seul gros XML : ça marche aussi.
+    Retourne une liste de scrutins avec votes enrichis (noms des députés et groupes).
     """
+    # 1. Charger les acteurs et organes
+    print("📥 Chargement des acteurs et organes...")
+    acteurs, organes = fetch_an_acteurs()
+    
+    # 2. Charger les scrutins
     cache = _cache_dir()
     zip_path = cache / "Scrutins.xml.zip"
     if not zip_path.exists():
@@ -216,15 +291,36 @@ def fetch_an_scrutins(limit: int = 200) -> list[dict]:
         if not xml_files:
             raise RuntimeError("Zip AN: aucun fichier XML trouvé")
 
-        for name in xml_files:
+        print(f"📄 Parsing {len(xml_files)} fichiers XML...")
+        for i, name in enumerate(xml_files):
+            if i % 500 == 0:
+                print(f"   ... {i}/{len(xml_files)}")
+            
             with zf.open(name) as f:
                 scrutins.extend(_parse_one_xml(f))
 
-    # dédoublonnage par id (au cas où)
+    print(f"✅ {len(scrutins)} scrutins parsés")
+    
+    # 3. Enrichir les votes avec les noms
+    print("🔄 Enrichissement des votes avec noms et groupes...")
+    for scrutin in scrutins:
+        for vote in scrutin.get("votes", []):
+            person_id = vote.get("person_id")
+            group_id = vote.get("group")
+            
+            if person_id in acteurs:
+                vote["name"] = acteurs[person_id]["name"]
+            
+            if group_id in organes:
+                vote["group_name"] = organes[group_id]["name"]
+                vote["group_acronym"] = organes[group_id]["acronym"]
+
+    # Déduplication par id
     by_id = {}
     for s in scrutins:
         by_id[s["id"]] = s
     scrutins = list(by_id.values())
 
     scrutins.sort(key=lambda s: (s["date"], s["id"]), reverse=True)
+    print(f"✅ Retour des {min(limit, len(scrutins))} scrutins les plus récents")
     return scrutins[:limit]
