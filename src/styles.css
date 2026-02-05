@@ -1,0 +1,13 @@
+body { font-family: system-ui, Arial, sans-serif; margin: 0; }
+.header { padding: 16px; border-bottom: 1px solid #ddd; }
+.main { padding: 16px; }
+.filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0; }
+.filters input, .filters select, button { padding: 8px; font-size: 14px; }
+.table { width: 100%; border-collapse: collapse; }
+.table th, .table td { border-bottom: 1px solid #eee; padding: 8px; vertical-align: top; }
+.meta { color: #555; font-size: 13px; }
+.detail { margin-top: 16px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; }
+.detail.hidden { display: none; }
+.detail-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.detail-head h2 { margin: 0; }
+button { cursor: pointer; }
