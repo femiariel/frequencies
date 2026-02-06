@@ -10,9 +10,10 @@
 <body>
   <header class="header">
     <h1>Scrutins</h1>
+    <div class="subtitle">Assemblée nationale — Votes et positions des députés</div>
 
     <div class="filters">
-      <input id="q" placeholder="Recherche (titre)..." />
+      <input id="q" placeholder="Rechercher un scrutin..." />
       <select id="result">
         <option value="">Tous résultats</option>
         <option value="adopted">Adopté</option>
@@ -27,19 +28,22 @@
   </header>
 
   <main class="main">
-    <table class="table" id="scrutinsTable">
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Titre</th>
-          <th>Pour</th>
-          <th>Contre</th>
-          <th>ID</th>
-          <th>Votes</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+    <div class="card">
+      <table class="table" id="scrutinsTable">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Titre</th>
+            <th>Résultat</th>
+            <th>Pour</th>
+            <th>Contre</th>
+            <th>ID</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
 
     <section id="detail" class="detail hidden">
       <div class="detail-head">
@@ -47,35 +51,39 @@
           <h2 id="detail-title"></h2>
           <div id="detail-sub" class="meta"></div>
         </div>
-        <button id="close">Fermer</button>
+        <button id="close" class="btn btn-close">Fermer</button>
       </div>
 
-      <div class="filters">
-        <input id="vq" placeholder="Filtrer (nom / id)..." />
-        <select id="vpos">
-          <option value="">Toutes positions</option>
-          <option value="FOR">Pour</option>
-          <option value="AGAINST">Contre</option>
-          <option value="ABSTAIN">Abstention</option>
-          <option value="NONVOTING">Non-votant</option>
-        </select>
-        <input id="vgroup" placeholder="Filtrer groupe (sigle, ex: RN)..." />
+      <div class="detail-body">
+        <div class="filters">
+          <input id="vq" placeholder="Filtrer par nom ou ID..." />
+          <select id="vpos">
+            <option value="">Toutes positions</option>
+            <option value="FOR">Pour</option>
+            <option value="AGAINST">Contre</option>
+            <option value="ABSTAIN">Abstention</option>
+            <option value="NONVOTING">Non-votant</option>
+          </select>
+          <input id="vgroup" placeholder="Filtrer groupe (ex: RN)..." />
+        </div>
+
+        <table class="table" id="votesTable">
+          <thead>
+            <tr>
+              <th>Nom</th>
+              <th>Groupe</th>
+              <th>Vote</th>
+              <th>Circonscription</th>
+              <th>ID député</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+
+        <div class="detail-footer">
+          <div id="votesMeta" class="meta"></div>
+        </div>
       </div>
-
-      <table class="table" id="votesTable">
-        <thead>
-          <tr>
-            <th>Nom</th>
-            <th>Groupe</th>
-            <th>Vote</th>
-            <th>Circonscription</th>
-            <th>ID député</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-
-      <div id="votesMeta" class="meta"></div>
     </section>
   </main>
 

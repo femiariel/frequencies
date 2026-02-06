@@ -56,22 +56,26 @@ function applyScrutinFilters() {
   if (result) rows = rows.filter(s => (s.result_status ?? "") === result);
   if (theme) rows = rows.filter(s => (s.themes ?? []).includes(theme));
 
-  document.querySelector("#meta").textContent =
-    `${rows.length} scrutins — données générées: ${INDEX.generated_at}`;
+  document.querySelector("#meta").innerHTML =
+    `<span class="meta-badge">${rows.length} scrutins</span> &nbsp; données générées: ${INDEX.generated_at}`;
 
   const tbody = document.querySelector("#scrutinsTable tbody");
   tbody.innerHTML = "";
 
   for (const s of rows) {
     const counts = s.counts ?? {};
+    const status = s.result_status ?? "";
+    const badgeClass = status === "adopted" ? "badge-adopted" : status === "rejected" ? "badge-rejected" : "";
+    const badgeLabel = status === "adopted" ? "Adopté" : status === "rejected" ? "Rejeté" : escapeHtml(status);
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td>${s.date}</td>
       <td>${escapeHtml(s.title)}</td>
-      <td>${safeNum(counts.for)}</td>
-      <td>${safeNum(counts.against)}</td>
-      <td><code>${escapeHtml(s.id)}</code></td>
-      <td><button data-id="${s.id}" data-date="${s.date}">Voir votes</button></td>
+      <td>${badgeClass ? `<span class="badge ${badgeClass}">${badgeLabel}</span>` : badgeLabel}</td>
+      <td class="vote-pour">${safeNum(counts.for)}</td>
+      <td class="vote-contre">${safeNum(counts.against)}</td>
+      <td><span class="id-code">${escapeHtml(s.id)}</span></td>
+      <td><button class="btn btn-primary" data-id="${s.id}" data-date="${s.date}">Voir votes</button></td>
     `;
     tbody.appendChild(tr);
   }
@@ -156,14 +160,25 @@ function renderVotes() {
   const tbody = document.querySelector("#votesTable tbody");
   tbody.innerHTML = "";
 
+  const posMap = {
+    FOR: { label: "Pour", css: "pour" },
+    AGAINST: { label: "Contre", css: "contre" },
+    ABSTAIN: { label: "Abstention", css: "abstention" },
+    NONVOTING: { label: "Non-votant", css: "nonvotant" },
+  };
+
   for (const v of votes) {
+    const p = posMap[v.position] ?? { label: escapeHtml(v.position ?? ""), css: "" };
+    const voteBadge = p.css
+      ? `<span class="vote-badge ${p.css}">${p.label}</span>`
+      : p.label;
     const tr = document.createElement("tr");
     tr.innerHTML = `
-      <td>${escapeHtml(v.name ?? "")}</td>
+      <td><strong>${escapeHtml(v.name ?? "")}</strong></td>
       <td>${escapeHtml(v.group_acronym ?? "")}</td>
-      <td>${escapeHtml(v.position ?? "")}</td>
+      <td>${voteBadge}</td>
       <td>${escapeHtml(v.constituency ?? "")}</td>
-      <td><code>${escapeHtml(v.person_id ?? "")}</code></td>
+      <td><span class="id-code">${escapeHtml(v.person_id ?? "")}</span></td>
     `;
     tbody.appendChild(tr);
   }
